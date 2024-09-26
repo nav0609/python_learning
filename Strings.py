@@ -1,0 +1,5 @@
+# print('{0:8} | {1:9}'.format('Fruit', 'Quantity'))
+# print('{0:8} | {1:9}'.format('Apples', 3.))
+# print('{0:8} | {1:9}'.format('Oranges', 10))
+print('{0:=<8} | {1:-^8} | {2:.>8}'.format('Left','Center','Right'))
+print('{0:=<8} | {1:-^8} | {2:.>8}'.format(11,22,33))
